@@ -12,9 +12,26 @@
                                           ╠╣░░░░ ░░░░░  ░░░░░░  ░░░░░  ░░░░░░░░ ░░░ ╠╣
                                           ╠╬╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╦╬╣
                                           ╚╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╝
+```
+```
+                          ABOUT ME:
+/*****************************************************************
+*                                                                *
+* Digital Design | Embedded Systems | Audio Hardware             *
+* M. Eng Computer Engineering @ Stevens Institute of Technology  *
+* Focus: FPGAs · Verilog/VHDL · STM32 · ESP32 · I²S · UART · I²C *
+*                                                                *
+******************************************************************/
 
+------------------------------------------------------------------
+CONTACTS:
+------------------------------------------------------------------
+Email: jose.martinez5682@gmail.com
+LinkedIn: https://www.linkedin.com/in/josemartinezponce/
+Website: TBD
 
 ```
+
 
 ![Bee Garden](squaresprout-bee-flowers.gif)
 Artist: [squaresprout](https://www.artstation.com/squaresprout)
