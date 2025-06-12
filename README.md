@@ -16,22 +16,37 @@
 -----------------                                                                                        -----------------
 ```
 ```
-                          ABOUT ME:
-/*****************************************************************
-*                                                                *
-* Digital Design | Embedded Systems | Audio Hardware             *
-* M. Eng Computer Engineering @ Stevens Institute of Technology  *
-* Focus: FPGAs · Verilog/VHDL · STM32 · ESP32 · I²S · UART · I²C *
-*                                                                *
-******************************************************************/
-
-------------------------------------------------------------------
-CONTACTS:
-------------------------------------------------------------------
-Email: jose.martinez5682@gmail.com
-LinkedIn: https://www.linkedin.com/in/josemartinezponce/
-Website: TBD
-
+                                                                                      
+      ABOUT ME:                                                                          .,,uod8B8bou,,.
+/*****************************************************************              ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
+*                                                                *         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
+* Digital Design | Embedded Systems | Audio Hardware             *         !...:!TVBBBRPFT||||||||||!!^^""'   ||||
+* M. Eng Computer Engineering @ Stevens Institute of Technology  *         !.......:!?|||||!!^^""'            ||||
+* Focus: FPGAs · Verilog/VHDL · STM32 · ESP32 · I²S · UART · I²C *         !.........||||                     ||||
+*                                                                *         !.........||||  ##                 ||||
+******************************************************************/        !.........||||                     ||||
+                                                                           !.........||||                     ||||
+                                                                           !.........||||                     ||||
+                                                                           !.........||||                     ||||
+                                                                           `.........||||                    ,||||
+                                                                            .;.......||||               _.-!!|||||
+------------------------------------------------------------------   .,uodWBBBBb.....||||       _.-!!|||||||||!:'
+CONTACTS:                                                         !YBBBBBBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBb....
+------------------------------------------------------------------!..YBBBBBBBBBBBBBBb!!||||||||!iof68BBBBBBRPFT?!::   `.
+Email: jose.martinez5682@gmail.com                                !....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
+LinkedIn: https://www.linkedin.com/in/josemartinezponce/          !......YBBBBBBBBBBBBBBBBBBBRPFT?!::::::;:!^"`;:::       `.
+Website: TBD                                                      !........YBBBBBBBBBBRPFT?!::::::::::^''...::::::;         iBBbo.
+                                                                  `..........YBRPFT?!::::::::::::::::::::::::;iof68bo.      WBBBBbo.
+                                                                    `..........:::::::::::::::::::::::;iof688888888888b.     `YBBBP^'
+------------------------------------------------------------------    `........::::::::::::::::;iof688888888888888888888b.     `
+CURRENT PROJECTS:                                                       `......:::::::::;iof688888888888888888888888888888b.
+------------------------------------------------------------------        `....:::;iof688888888888888888888888888888888899fT!
+ * Learning Verilog by translating old VHDL labs                            `..::!8888888888888888888888888888888899fT|!^"'
+   on a NEXYS A7-100T Board                                                    `' !!988888888888888888888888899fT|!^"'
+                                                                                  `!!8888888888888888899fT|!^"'
+                                                                                    `!988888888899fT|!^"'
+                                                                                      `!9899fT|!^"'
+                                                                                        `!^"'
 ```
 
 
