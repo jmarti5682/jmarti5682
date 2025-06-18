@@ -33,7 +33,7 @@
 ------------------------------------------------------------------   .,uodWBBBBb.....||||       _.-!!|||||||||!:'
 CONTACTS:                                                         !YBBBBBBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBb....
 ------------------------------------------------------------------!..YBBBBBBBBBBBBBBb!!||||||||!iof68BBBBBBRPFT?!::   `.
-Email: jose.martinez5682@gmail.com                                !....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
+                                                                  !....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
 LinkedIn: https://www.linkedin.com/in/josemartinezponce/          !......YBBBBBBBBBBBBBBBBBBBRPFT?!::::::;:!^"`;:::       `.
 Website: TBD                                                      !........YBBBBBBBBBBRPFT?!::::::::::^''...::::::;         iBBbo.
                                                                   `..........YBRPFT?!::::::::::::::::::::::::;iof68bo.      WBBBBbo.
