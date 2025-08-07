@@ -14,15 +14,14 @@
       |||||                               ╚╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╝                        |||||   
       |||||                                                                                                   |||||
 -----------------                                                                                        -----------------
-```
-```
+
                                                                                       
       ABOUT ME:                                                                          .,,uod8B8bou,,.
 /*****************************************************************              ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
 *                                                                *         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
 * Digital Design | Embedded Systems | Audio Hardware             *         !...:!TVBBBRPFT||||||||||!!^^""'   ||||
 * M. Eng Computer Engineering @ Stevens Institute of Technology  *         !.......:!?|||||!!^^""'            ||||
-* Focus: FPGAs · Verilog/VHDL · STM32 · ESP32 · I²S · UART · I²C *         !.........||||                     ||||
+* Focus: FPGAs · Verilog/VHDL · STM32 · ESP32                    *         !.........||||                     ||||
 *                                                                *         !.........||||  ##                 ||||
 ******************************************************************/        !.........||||                     ||||
                                                                            !.........||||                     ||||
@@ -47,10 +46,7 @@ CURRENT PROJECTS:                                                       `......:
                                                                                     `!988888888899fT|!^"'
                                                                                       `!9899fT|!^"'
                                                                                         `!^"'
-```
 
-
-```
                                          ,                        '           .        '        ,  
                                  .            .        '       .         ,         
                                                                                  .       '     +
